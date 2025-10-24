@@ -20,6 +20,7 @@
 
 .menuLink:hover {
   filter: brightness(80%);
+  cursor: pointer;
 }
 
 .menuLink svg {
